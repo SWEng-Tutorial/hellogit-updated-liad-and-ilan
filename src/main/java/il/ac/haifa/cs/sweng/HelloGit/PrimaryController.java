@@ -36,7 +36,7 @@ public class PrimaryController {
 	 */
 
 
-	public class LabelIlan {
+	public class Label_Test{
 
 	}
 
