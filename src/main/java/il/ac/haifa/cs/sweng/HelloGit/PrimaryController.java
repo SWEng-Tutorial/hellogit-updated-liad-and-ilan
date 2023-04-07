@@ -31,4 +31,14 @@ public class PrimaryController {
     	System.exit(0);
     }
 
+	/**
+	 * Sample Skeleton for 'about_dialog.fxml' Controller Class
+	 */
+
+
+	public class LabelIlan {
+
+	}
+
+
 }
