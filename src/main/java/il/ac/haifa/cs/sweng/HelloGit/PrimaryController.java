@@ -36,7 +36,7 @@ public class PrimaryController {
 	 */
 
 
-	public class PleaseProvideControllerClassName {
+	public class PleaseProvideControllerClass1 {
 
 	}
 
