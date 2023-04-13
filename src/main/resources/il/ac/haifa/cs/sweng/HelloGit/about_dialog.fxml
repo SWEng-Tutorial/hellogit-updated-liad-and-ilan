@@ -13,6 +13,4 @@
 			<Font size="31.0" />
 		</font>
 	</Label>
-   <Label alignment="CENTER_RIGHT" prefHeight="17.0" prefWidth="410.0" text="Ilan Sapoznikov" />
-
 </VBox>
