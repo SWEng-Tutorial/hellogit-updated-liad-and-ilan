@@ -36,7 +36,7 @@ public class PrimaryController {
 	 */
 
 
-	public class LabelTest1{
+	public class LabelTest2{
 
 	}
 
