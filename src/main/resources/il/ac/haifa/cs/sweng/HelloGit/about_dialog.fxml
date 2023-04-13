@@ -13,10 +13,4 @@
 			<Font size="31.0" />
 		</font>
 	</Label>
-   <Label prefHeight="22.0" prefWidth="74.0" text="Liad Arvatz">
-      <font>
-         <Font size="14.0" />
-      </font>
-   </Label>
-
 </VBox>
